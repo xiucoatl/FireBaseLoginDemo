@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171491445411",
+    "project_id": "fir-logindemo-3ada5",
+    "storage_bucket": "fir-logindemo-3ada5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171491445411:android:61b6c577271df400720d16",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171491445411-er7o05e16paaqlj7mppcufnma7leaiik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoG-dINSYzJ9IMzb9ukHDe6rhrl8bdBW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171491445411-er7o05e16paaqlj7mppcufnma7leaiik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
